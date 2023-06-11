@@ -43,7 +43,7 @@ int main(void){
 
     printf("Bienvenido al juego del laberinto\n");
     do{
-        printf("1.Jugar\n2.Creditos\n3.Salir\n");
+        printf("\n1.Jugar\n2.Creditos\n3.Salir\n");
         printf("Ingrese la opcion que desea realizar.\n");
         scanf("%d", &opc);
         while(opc<=0 || opc>3){
