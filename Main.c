@@ -39,7 +39,6 @@ int main(void){
     int opc;
     int x = 0;//filas
     int y = 0;//columnas
-    int cmov = 0;
 
     printf("Bienvenido al juego del laberinto\n");
     do{
